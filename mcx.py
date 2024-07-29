@@ -118,7 +118,6 @@ def main():
     print('----------------------')
     print('Data Extraction is Done')
     print('----------------------')
-    store_data_in_panda(table_data)
 
 if __name__ == "__main__":
     main()
